@@ -48,7 +48,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Channel', url='https://t.me/Bucket_LinkZz'),
-        InlineKeyboardButton('Developer 😁', url ='https://t.me/Jana_TG)
+        InlineKeyboardButton('Developer 😁', url ='https://t.me/Jana_TG')
     ],[
         InlineKeyboardButton('Discussion😇', url='https://t.me/BucketChats')
     ],[
