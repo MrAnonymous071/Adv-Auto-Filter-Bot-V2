@@ -28,7 +28,7 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = f"<code>{file_name}</code> <br> \n \n📍Powered By : @Bucket_LinkZz",
+                caption = f"<code>{file_name}</code> <br> \n \n <b>📍Powered By : @Bucket_LinkZz</b>",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
